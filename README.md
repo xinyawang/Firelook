@@ -1,5 +1,5 @@
 # Introduction
-Lion is an Android project, in which user can register account and post events. All users can see your event in main page and can like or comment them.
+Firelook is an Android project, in which user can register account and post events. All users can see your event in main page and can like or comment them.
 
 ## Tech Stack
 * gradle
@@ -13,7 +13,7 @@ Lion is an Android project, in which user can register account and post events. 
 Clone the GitHub repository and then import source code into your Android Studio
 
 ```
-git clone https://github.com/weijian2/Lion
+git clone https://github.com/xinyawang/Firelook
 ```
 
 
@@ -37,7 +37,7 @@ If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
 2. Integrate Google AdMob to display user-friendly advertisement
 
 ## Change Log
-v1.0.0(12/01/2017)<br>
+v1.0.0(12/01/2020)<br>
 * User can register account
 * User can post event with address fetched automatically
 * User can upload images
