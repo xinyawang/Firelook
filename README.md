@@ -30,7 +30,7 @@ git clone https://github.com/xinyawang/Firelook
 </p>
 
 ## Known bugs
-If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
+If you find any more bugs, feel free to contact wangxinya5@gmail.com
 
 ## Todo list
 1. Integrate Google Map API to show and navigate to nearby events
